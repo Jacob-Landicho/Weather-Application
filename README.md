@@ -62,7 +62,7 @@ Our attempted java files are included.
 ## How To Run
 These are the instructions to run the code
 
-1. Go to our ``github`` repository: https://github.com/OntarioTech-CS-program/w23-csci2020u-project-team-13 and ``copy`` the project from the ``code`` dropdown, cloning it into the local directory of your choice.\
+1. Go to our ``github`` repository: https://github.com/Jacob-Landicho/Weather-Application and ``copy`` the project from the ``code`` dropdown, cloning it into the local directory of your choice.\
    ![](images/FA_Step1_Dev.png)
 #
 2. Load the project folder through ``Intellij`` by left-clicking the project and selecting ``Open Folder as Intellij IDEA Project``\
