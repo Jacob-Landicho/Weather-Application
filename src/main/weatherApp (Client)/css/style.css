@@ -10,7 +10,7 @@ header h2{
 
 
 body {
-    background-image: url('/src/main/weatherApp (Client)/images/image1.jpg');
+    background-image: url('../images/image1.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     font-family: Tahoma, sans-serif;
@@ -22,11 +22,11 @@ body {
 
 
 .cloudy {
-    background-image: url('/src/main/weatherApp (Client)/images/image2.jpg');
+    background-image: url('../images/image2.jpg');
 }
 
 .rainy {
-    background-image: url('/src/main/weatherApp (Client)/images/image3.jpg');
+    background-image: url('../images/image3.jpg');
 }
 
 a {
@@ -141,7 +141,7 @@ a {
     box-shadow: 0 3px 3px rgb(109, 213, 237), 0 3px 0 #2193b0, 0 4px 0 #e8de73, 0 5px 5px #f5f7f8;
     margin: 100px auto;
     position: relative;
-    transform: translateX(-20%);
+    transform: translateX(-37%);
     overflow: hidden;
     padding: 8px;
     width: 500px;
